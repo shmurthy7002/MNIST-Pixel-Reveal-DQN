@@ -17,4 +17,6 @@ instead of learning to trace the numbers as I had hoped). If I have time I'll ma
 1. let the dqn itself also make the prediction for what the number is (no external pretrained oracle)
 2. give the DQN some way of understanding spatial relationships between pixels (like with a CNN or an attention block)
 
+the only really important file is dqn.ipynb
+
 btw: I did use ai for coding the visualization tools and diagnostics at the very bottom of dqn.ipynb, and I left a comment that says when that started. Everything else was done by yaboi
