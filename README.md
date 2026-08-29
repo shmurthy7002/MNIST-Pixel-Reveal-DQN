@@ -1,4 +1,4 @@
-So my goal was to create an agent that plays the following game:
+So my goal was to create an agent that plays the following game on the MNIST dataset:
 
 agent is staring at black screen, gets to reveal 1 pixel, gets to see how bright that pixel was, agents gets to reveal 1 more pixel, gets to see how bright it was.
 repeat the above many times (do 60 pixel reveals).
