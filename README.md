@@ -19,4 +19,4 @@ instead of learning to trace the numbers as I had hoped). If I have time I'll ma
 
 the only really important file is dqn.ipynb
 
-btw: I did use ai for coding the visualization tools and diagnostics at the very bottom of dqn.ipynb, and I left a comment that says when that started. Everything else was done by yaboi
+btw: I did use ai for coding the visualization tools and diagnostics at the very bottom of dqn.ipynb, and I left a comment that says when that started. Everything else was done by me
