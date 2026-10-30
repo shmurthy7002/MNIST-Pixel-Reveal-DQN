@@ -5,7 +5,7 @@ repeat the above many times (do 60 pixel reveals).
 
 finally, the agent makes a guess at what the number is, hopefully it guesses right
 
-I also decided to tackle this problem with using AI for writing code, to make sure I understand everything inside and out. Everything was written in numpy, no torch or tensorflow.
+I also decided to tackle this problem with using AI for writing code (besides some visualizations), to make sure I understand everything inside and out. Everything was written in numpy, no torch or tensorflow.
 
 I initially decided to tackle this with a DQN to reveal the pixels, and then a pretrained classifier that looks at the pixels that have been revealed and make the final guess.
 I quickly realized I needed tricks to make training stable and proceeded to add experience replay, target networks, Huber loss, parallel environments, gradient norm clipping, 
